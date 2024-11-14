@@ -1,2 +1,2 @@
 # Math-notes
-This repository includes my math notes.
+This repository collects my math notes.
